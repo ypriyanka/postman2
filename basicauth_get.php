@@ -13,8 +13,8 @@ HttpEntity responseEntity = httpResponse.getEntity();
 */
 
 $username1= "priyanka";
-$password1= "2cd94980d1b0b7ca9c3b051b9f5097bd4a602f44";
-$url1='https://store-bwh9m.mybigcommerce.com/api/v2/';
+$password1= "3aca74c82b4e10b8547590d5471728c2935cff64";
+$url1="https://store-mlghek.mybigcommerce.com/api/v2/";
 
 function http_auth_get($url,$username,$password)
 {

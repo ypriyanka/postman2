@@ -1,7 +1,7 @@
 <?php
 $username= "priyanka";
-$password= "2cd94980d1b0b7ca9c3b051b9f5097bd4a602f44";
-echo $link=$_GET['link'];
+$password= "3aca74c82b4e10b8547590d5471728c2935cff64";
+echo $link="https://store-mlghek.mybigcommerce.com/api/v2/products";
 //post function
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL,$link);
